@@ -1,0 +1,1 @@
+Vi editor commands inserting, cutting, pasting, undoing, exiting, beginning of the line, end of the
